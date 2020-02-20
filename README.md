@@ -1,5 +1,5 @@
 # ICRA2020-CMTS
-The pytorch code for ICRA2020 paper 'CMTS: Conditional Multiple Trajectory Synthesizer for Generating Safety-critical Driving Scenarios'
+The pytorch code for ICRA2020 paper 'CMTS: Conditional Multiple Trajectory Synthesizer for Generating Safety-critical Driving Scenarios' [Paper Link](https://arxiv.org/abs/1910.00099)
 
 ## Environment
 Python 3.7 <br/>
@@ -17,6 +17,6 @@ The structure of our model is shown below. The tool used to draw this structure 
 ![Alt text](./misc/structure.png)
 
 ## Generated Examples
-Some interpolstion examples are shown below: 
+Some interpolation examples are shown below: 
 <br/>
 ![Alt text](./misc/transfer.png)
