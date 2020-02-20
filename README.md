@@ -10,3 +10,13 @@ The processed Argoverse dataset can be downloaded with this [Link](https://drive
 
 ## Visualization
 Some tools for visualization are provided in *tool* folder. This tools will read the files from *sample* folder, which are saved during the training or generate stage.
+
+## Structure
+The structure of our model is shown below. The tool used to draw this structure is [Blender](https://www.blender.org/), which is an open-source 3D modeling tool. 
+<br/>
+![Alt text](./misc/structure.png)
+
+## Generated Examples
+Some interpolstion examples are shown below: 
+<br/>
+![Alt text](./misc/transfer.png)
