@@ -1,5 +1,5 @@
 # ICRA2020-CMTS
-The pytorch code for ICRA2020 paper 'CMTS: Conditional Multiple Trajectory Synthesizer for Generating Safety-critical Driving Scenarios' [Paper Link](https://arxiv.org/abs/1910.00099)
+The pytorch code for ICRA2020 paper [CMTS: Conditional Multiple Trajectory Synthesizer for Generating Safety-critical Driving Scenarios](https://arxiv.org/abs/1910.00099)
 
 ## Environment
 Python 3.7 <br/>
